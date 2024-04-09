@@ -1,0 +1,28 @@
+.high_text {
+    background-color: yellow;
+    color: white;
+}
+
+.searchBtn {
+    border: 3px solid black;
+    color: black;
+    font-size: medium;
+    font-weight: 500;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    transition: all 200ms linear;
+}
+
+.searchBtn:hover {
+    background-color: rgb(200, 222, 241);
+}
+
+#search_bar {
+    border-radius: 10px;
+    color: black;
+    font-size: medium;
+    font-weight: 500;
+    border: 3px solid black;
+    margin-left: 10px;
+}
